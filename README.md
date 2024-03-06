@@ -35,8 +35,10 @@ Here are some ideas to get you started:
 
 
 
-### Contributions:
+<!--- ### Contributions: 
  ![Snake animation](https://github.com/yuvarajsingh-0/yuvarajsingh-0/blob/output/github-contribution-grid-snake.svg)
+---
+-->
 ---
 
 [![](https://visitcount.itsvg.in/api?id=yuvarajsingh-0&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
